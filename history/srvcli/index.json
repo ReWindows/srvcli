@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "srvcli.dll",
+  "latest": "239922031-62629E90CBC14A976B1080CB2472DF03-1",
+  "builds": [
+    {
+      "key": "239922031-62629E90CBC14A976B1080CB2472DF03-1",
+      "timestamp": "239922031",
+      "pdb_guid": "62629E90CBC14A976B1080CB2472DF03",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/239922031-62629E90CBC14A976B1080CB2472DF03-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
